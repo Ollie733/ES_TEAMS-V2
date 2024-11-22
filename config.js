@@ -18,8 +18,8 @@ global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029Vaj1vKSK5cDD
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/ec33ecf51f928d0a89a1b.jpg";
 global.devs = "https://t.me/examsolutionteam";
-global.sudo = process.env.SUDO || "";
-global.owner = process.env.OWNER_NUMBER || "";
+global.sudo = process.env.SUDO || "2349114238804";
+global.owner = process.env.OWNER_NUMBER || "2349114238804";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
@@ -42,7 +42,7 @@ global.scan = "https://whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
-  ""
+  "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoib1B1Q2pBTjR5ZEpJcXFYVmZ3SlEvNDZOZytqSFRtaThWVmxwM2ozNWluMD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicWU1S1l6cVdnQVdIUkdDU0ZlZUZiOXZlYXhiSDF3a0NFNEJpYmNoTHhHcz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJhTFoxVTNBbHh4MThGUjFsMUpyY2o2ZWZPWHh4aHVIek14Y2pBeUZNaFdzPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJFQ2l1dWpJZk9vNUhmUzhCZ1hFTlh1QkpiQkY4eTBDRlIxUEEzN2ROaENrPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjBMMGhiLzhaS2xqMmM3bkZjSkx5cjZCRUozcXg3UzZxd0FWa3BZbE5HVlk9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InF6NHlYcktaQU1hOXUxeW00WkRWMDl3UnprSDRzZG93RkkvRWxVMTdDQ0E9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiME1GM3lVeUU5c1JSak1Yd01ac0VMSHFWdlROWExJaFk4NDBNd0VJUmIwaz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZGNBMTMwUGVSalovYUMzY1lQNkVOQlhsVWRFdUhZa3BNOG9xbUJ2VTJGST0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjI4ajFhZHl2YXBHTjd4L0hkZko2QStKbk9qQVlMeWNmbWZidlREQnFtSnVmR3Y2ejlaaWFjOWlqcEpNNVRROVRmd1NnSnpLczhsYjBrQkdwRUo2Z2hBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTY2LCJhZHZTZWNyZXRLZXkiOiJKTjQ0aDU3VytIOXB0T3dJVVZWRFp3LzhtOThUaVF5V3VXQXE2NGRxNjdjPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiI0WDBTRWY4RFNTQzI0ZG5TaUpuWVZRIiwicGhvbmVJZCI6ImUxMWRiM2ZiLWU3ZjMtNDAwNi05MjNkLTM5OTA3MTViY2UxZCIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJaR1F2ZkpENGRSRzg5SytnTmF0ZjN5N1BVbjQ9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiaTZYZTRXWjh3bDc4di9yQXRheGdjRW11UWJJPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IjNGQVAzUjVFIiwibWUiOnsiaWQiOiIyMzQ4MTQ0Mjk0MjI2OjIwQHMud2hhdHNhcHAubmV0In0sImFjY291bnQiOnsiZGV0YWlscyI6IkNLN2M2czhCRUs2SGdib0dHQUVnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJDMURBd2NxdHVPUVh3TUdTbGd6aFJuQ3Q5U0NaTUpjTVRrYkhKQU5iM1dzPSIsImFjY291bnRTaWduYXR1cmUiOiJ5VmZybnYyRjdwOUllcjRJRWtraFB2eHByS0NEYlRlMzVlZzhmc1FpTTUxN2RNekhmYjFvSWpoWm5RMWJLOEZnUmdSRXZIcUlzWFpNeXB6VjFRS0tDUT09IiwiZGV2aWNlU2lnbmF0dXJlIjoiVWpZOUk4ZWw0bnJZVytoY2NWaUxzY2U1SGxEekNnMjNaMVpKdmNxQzlzZUFycnNSWnhKM3lra0E3ZGh3U3RVaWJBZGZOaStiVHRjWFMvcGM2VlFyaEE9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyMzQ4MTQ0Mjk0MjI2OjIwQHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQlF0UXdNSEtyYmprRjhEQmtwWU00VVp3cmZVZ21UQ1hERTVHeHlRRFc5MXIifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MzIyNjQ4OTJ9"
 module.exports = {
   menu: process.env.MENU || "2",
   HANDLERS: process.env.PREFIX || ".",
@@ -52,7 +52,7 @@ module.exports = {
   author: process.env.PACK_AUTHER || "ES TEAMS-V2",
   packname: process.env.PACK_NAME || "ES TEAMS",
   botname: process.env.BOT_NAME || "𝔼𝕊 𝕋𝔼𝔸𝕄𝕊-𝕍2👑",
-  ownername: process.env.OWNER_NAME || "𝔼𝕊 𝕋𝔼𝔸𝕄𝕊-𝕋𝔼ℂℍ👑",
+  ownername: process.env.OWNER_NAME || "GRANDPA-CYRIL👑",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
